@@ -1,0 +1,3 @@
+admin_username      = "AdminUser"
+ssh_public_key_path = "~/.ssh/id_rsa.pub"
+allowed_ssh_ip      = "SEU_IP/32"
